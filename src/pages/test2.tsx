@@ -758,7 +758,7 @@ export default function Waiting() {
               </a>
               <a
                 className="text-white hover:text-[#ffcc00] transition-colors"
-                href="#"
+                href="https://x.com/DegenPotSol"
               >
                 <DiscIcon className="h-6 w-6" />
               </a>
